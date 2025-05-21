@@ -4,7 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HOWILLMAKEIT&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOWILLMAKEIT&layout=compact&theme=radical" />
 </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=HOWILLMAKEIT&theme=xcode" /> </div>
 
 
 
