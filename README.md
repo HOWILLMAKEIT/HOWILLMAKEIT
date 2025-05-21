@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F7BC&width=435&lines=%E8%80%90%E5%BF%83%E6%98%AF%E7%94%9F%E6%B4%BB%E7%9A%84%E5%85%B3%E9%94%AE)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOWILLMAKEIT)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOWILLMAKEIT)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
