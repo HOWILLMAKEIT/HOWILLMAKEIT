@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOWILLMAKEIT&layout=compact&theme=radical" />
 </div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=HOWILLMAKEIT&theme=xcode" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HOWILLMAKEIT&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
