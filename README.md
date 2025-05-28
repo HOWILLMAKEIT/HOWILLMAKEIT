@@ -3,7 +3,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <div style="display: flex; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=HOWILLMAKEIT&show_icons=true&theme=radical" style="width: 400px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOWILLMAKEIT&layout=compact&theme=radical" style="width: 400px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOWILLMAKEIT&layout=compact&theme=radical" style="width: 310px;" />
   </div>
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
