@@ -7,7 +7,7 @@
   </div>
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HOWILLMAKEIT&theme=react" style="width: 500px;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HOWILLMAKEIT&theme=react" style="width: 705px;" />
   </a>
 </div>
 
